@@ -1,0 +1,22 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"index.js\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.7",
+    "random-puppy": "^1.1.0",
+    "ytdl-core": "^2.0.0",
+    "ytdl-core-discord": "^1.1.0"
+  }
+}
